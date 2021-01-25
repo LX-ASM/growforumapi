@@ -1,8 +1,6 @@
 # growforumapi
 GrowForum API Examples
 
-Compile: gcc main.c -o growforum
+That's it.
 
-Run: ./growforum
-
-Not Finished Yet
+Not completed, because the API is not completed too :)
